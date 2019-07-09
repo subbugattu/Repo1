@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 500A-3B80
+
+ Directory of C:\Users\Admin\Desktop\MyProject
+
+09-Jul-19  11:44 AM    <DIR>          .
+09-Jul-19  11:44 AM    <DIR>          ..
+09-Jul-19  11:44 AM                 0 subbu.txt
+09-Jul-19  11:42 AM               353 test1.txt
+               2 File(s)            353 bytes
+               2 Dir(s)  20,336,828,416 bytes free
